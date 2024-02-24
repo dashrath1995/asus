@@ -8,5 +8,6 @@ public static void main(String[] args)
 	int sum=a+b;
 	System.out.println(sum);
 	System.out.println("successfull");
+	System.out.println("fail");
 }
 }
