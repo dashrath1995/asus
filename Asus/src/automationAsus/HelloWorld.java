@@ -5,8 +5,7 @@ public class HelloWorld
 public static void main(String[] args)
 {
 	System.out.println("hello world");
-	int a=10, b=20;
-	int sum=a+b;
-	System.out.println(sum);	
+	System.out.println("my name is Dashrath Pradhan");
+	System.out.println("I am 27 years old");
 }
 }
