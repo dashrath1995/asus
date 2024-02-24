@@ -9,5 +9,6 @@ public static void main(String[] args)
 	System.out.println(sum);
 	System.out.println("successfull");
 	System.out.println("fail");
+	System.out.println("again fail");
 }
 }
